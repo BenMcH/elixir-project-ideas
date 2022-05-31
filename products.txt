@@ -1,0 +1,36 @@
+airbnb
+snapchat
+instagram
+hacker news
+google
+wikipedia
+amazon
+yahoo
+youtube
+reddit
+ebay
+flickr
+linkedin
+apple
+microsoft
+tumblr
+twitch
+dropbox
+github
+pinterest
+medium
+stackoverflow
+bitbucket
+quora
+slack
+wordpress
+twitter
+facebook
+doordash
+turo
+uber
+web store
+database
+planner
+crm
+cms
