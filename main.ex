@@ -1,7 +1,7 @@
 {:ok, contents} = File.read('./products.txt')
 products = contents |> String.split("\n", trim: true)
 
-{:ok, contents} = File.read('./dempgraphics.txt')
+{:ok, contents} = File.read('./demographics.txt')
 dempgraphics = contents |> String.split("\n", trim: true)
 
 number = case IO.gets("How many product suggestions would you like?\n") |> String.trim |> Integer.parse do
